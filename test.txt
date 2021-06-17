@@ -1,1 +1,1 @@
-Hi Janardan , take changes before pull
+Hi Janardan , take changes before clone, now changes before pull
